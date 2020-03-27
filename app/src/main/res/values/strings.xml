@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KotlinTask1</string>
+    <string name = "my_name">Taiwo Farinu</string>
+    <string name = "slack_username">Slack Username</string>
+    <string name = "start_email">Start.NG Email Address</string>
+    <string name = "track_text">My Tracks</string>
+
+    <string name = "my_slack_username">Taiwo Farinu</string>
+    <string name = "my_start_email">farinupeter@gmail.com</string>
+    <string name = "my_track_text">Mobile | Design</string>
+
+</resources>
